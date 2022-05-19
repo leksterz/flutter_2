@@ -69,7 +69,7 @@ class NinjaCard extends StatelessWidget {
                 ),
                 SizedBox(width: 10),
                 Text(
-                  'zvirbul@gmail.com',
+                  'zvirbuls@gmail.com',
                   style: TextStyle(color: Colors.black),
                 )
               ],
